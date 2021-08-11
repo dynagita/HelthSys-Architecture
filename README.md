@@ -8,5 +8,4 @@ Então, você pode entender o projeto em nosso Wiki, onde descrevemos todas as d
 
 This project is about IGTI's Software Architecture MBA Applicable Project.
 Then, is possible to find here a solution for a more intelligent health system who helps Brazil to improve hospitals to attend efficiently their patients.
-So, you can understand project going out Wiki, where we describe all decisions, it's all written in portuguese and it maybe translated to English in some moment, but unfortunately it was necessary do it in portuguese for finalizing project and get graduated into MBA.
-
+So, you can understand project going out Wiki, where we describe all decisions, it's all written in portuguese.
